@@ -1,15 +1,15 @@
 # 🏠 Tehran House Price Predictor
 
-سامانه هوشمند پیش‌بینی قیمت مسکن تهران با **Random Forest Regression** و رابط Streamlit.
+سامانه هوشمند پیش‌بینی قیمت مسکن تهران با **Random Forest Regression** و رابط **Streamlit**.
 
-## فایل‌ها
+## ساختار پروژه
 
 - `app.py` — برنامه اصلی Streamlit
-- `1632300362534233.csv` — دیتاست پروژه
+- `data_chunks/` — داده‌های پروژه به‌صورت فشرده و چندبخشی
 - `requirements.txt` — وابستگی‌های Python
 - `.streamlit/config.toml` — تنظیمات ظاهری Streamlit
 
-مدل هنگام شروع برنامه از روی دیتاست آموزش داده می‌شود و نتیجه در حافظه Cache می‌شود؛ بنابراین این نسخه به Google Colab یا فایل مدل جداگانه وابسته نیست.
+برنامه هنگام اولین اجرا داده‌ها را از فایل‌های `data_chunks` بازسازی و پاک‌سازی می‌کند، مدل Random Forest را آموزش می‌دهد و مدل آموزش‌دیده توسط Streamlit Cache نگه داشته می‌شود. بنابراین اجرای سایت به Google Colab وابسته نیست.
 
 ## اجرای محلی
 
@@ -20,6 +20,8 @@ streamlit run app.py
 
 ## Deploy روی Streamlit Community Cloud
 
-Main file path را روی `app.py` قرار دهید.
+- Repository: `M3HRA8/tehran-house-price`
+- Branch: `main`
+- Main file path: `app.py`
 
 > قیمت نمایش‌داده‌شده تخمینی است و ممکن است با قیمت واقعی بازار متفاوت باشد.
