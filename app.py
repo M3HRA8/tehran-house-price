@@ -28,12 +28,18 @@ st.set_page_config(
 # ============================================================
 
 BASE_DIR = Path(__file__).resolve().parent
-DATA_ENCODED_PATH = BASE_DIR / "data_encoded.txt"
+DATA_CHUNKS_DIR = BASE_DIR / "data_chunks"
 
 
 @st.cache_resource
 def train_model():
-    encoded = DATA_ENCODED_PATH.read_text(encoding="ascii").strip()
+    chunk_files = sorted(DATA_CHUNKS_DIR.glob("chunk_*.txt"))
+    if not chunk_files:
+        raise FileNotFoundError("فایل‌های داده پیدا نشدند.")
+    encoded = "".join(
+        path.read_text(encoding="ascii").strip()
+        for path in chunk_files
+    )
     compressed = base64.b64decode(encoded)
     csv_bytes = gzip.decompress(compressed)
     df = pd.read_csv(io.BytesIO(csv_bytes))
