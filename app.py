@@ -24,12 +24,20 @@ st.set_page_config(
 # ============================================================
 
 BASE_DIR = Path(__file__).resolve().parent
-DATA_PATH = BASE_DIR / "1632300362534233.csv"
+DATA_DIR = BASE_DIR / "data"
 
 
 @st.cache_resource
 def train_model():
-    df = pd.read_csv(DATA_PATH)
+    data_files = sorted(DATA_DIR.glob("part_*.csv"))
+
+    if not data_files:
+        raise FileNotFoundError("فایل‌های دیتاست پیدا نشدند.")
+
+    df = pd.concat(
+        [pd.read_csv(path) for path in data_files],
+        ignore_index=True,
+    )
 
     # پاک‌سازی مشابه Notebook اصلی پروژه
     df["Area"] = (
