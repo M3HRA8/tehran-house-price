@@ -1,5 +1,9 @@
 from pathlib import Path
 
+import base64
+import gzip
+import io
+
 import numpy as np
 import pandas as pd
 import streamlit as st
@@ -24,20 +28,15 @@ st.set_page_config(
 # ============================================================
 
 BASE_DIR = Path(__file__).resolve().parent
-DATA_DIR = BASE_DIR / "data"
+DATA_ENCODED_PATH = BASE_DIR / "data_encoded.txt"
 
 
 @st.cache_resource
 def train_model():
-    data_files = sorted(DATA_DIR.glob("part_*.csv"))
-
-    if not data_files:
-        raise FileNotFoundError("فایل‌های دیتاست پیدا نشدند.")
-
-    df = pd.concat(
-        [pd.read_csv(path) for path in data_files],
-        ignore_index=True,
-    )
+    encoded = DATA_ENCODED_PATH.read_text(encoding="ascii").strip()
+    compressed = base64.b64decode(encoded)
+    csv_bytes = gzip.decompress(compressed)
+    df = pd.read_csv(io.BytesIO(csv_bytes))
 
     # پاک‌سازی مشابه Notebook اصلی پروژه
     df["Area"] = (
