@@ -1,0 +1,291 @@
+Area,Room,Parking,Warehouse,Elevator,Address,Price,Price(USD)
+63,1,True,True,True,Shahran,1850000000.0,61666.67
+60,1,True,True,True,Shahran,1850000000.0,61666.67
+79,2,True,True,True,Pardis,550000000.0,18333.33
+95,2,True,True,True,Shahrake Qods,902500000.0,30083.33
+123,2,True,True,True,Shahrake Gharb,7000000000.0,233333.33
+70,2,True,True,False,North Program Organization,2050000000.0,68333.33
+87,2,True,True,True,Pardis,600000000.0,20000.0
+59,1,True,True,True,Shahran,2150000000.0,71666.67
+54,2,True,True,False,Andisheh,493000000.0,16433.33
+71,1,True,True,True,West Ferdows Boulevard,2370000000.0,79000.0
+68,2,True,True,True,West Ferdows Boulevard,2450000000.0,81666.67
+64,1,True,True,True,Narmak,2100000000.0,70000.0
+54,1,False,True,True,Narmak,1690000000.0,56333.33
+136,3,True,True,True,Saadat Abad,11000000000.0,366666.67
+95,2,True,True,True,Zafar,5000000000.0,166666.67
+63,1,False,True,False,Islamshahr,570000000.0,19000.0
+155,3,True,True,True,Narmak,6700000000.0,223333.33
+64,2,False,True,False,Pirouzi,1450000000.0,48333.33
+140,3,True,True,True,West Ferdows Boulevard,6400000000.0,213333.33
+42,1,False,True,False,Pirouzi,1390000000.0,46333.33
+93,2,True,True,True,Shahrake Gharb,7000000000.0,233333.33
+87,2,True,True,True,Shahrake Shahid Bagheri,2500000000.0,83333.33
+65,1,True,True,True,Shahran,1880000000.0,62666.67
+99,2,True,True,True,Moniriyeh,2277000000.0,75900.0
+105,2,True,True,True,Saadat Abad,7150000000.0,238333.33
+160,3,True,True,True,Velenjak,14945000000.0,498166.67
+77,2,True,True,True,Amirieh,1771000000.0,59033.33
+123,2,True,True,True,Pirouzi,4059000000.0,135300.0
+110,2,True,True,True,Southern Janatabad,630000000.0,21000.0
+100,2,True,True,True,West Ferdows Boulevard,3200000000.0,106666.67
+90,2,False,True,False,Salsabil,1500000000.0,50000.0
+49,1,True,True,True,West Ferdows Boulevard,2200000000.0,73333.33
+96,2,True,True,True,Zargandeh,7872000000.0,262400.0
+67,2,True,True,False,Feiz Garden,2350000000.0,78333.33
+68,2,True,True,True,West Ferdows Boulevard,2500000000.0,83333.33
+62,1,True,False,True,Water Organization,2150000000.0,71666.67
+55,1,True,True,True,West Ferdows Boulevard,2150000000.0,71666.67
+110,2,True,True,True,West Ferdows Boulevard,3750000000.0,125000.0
+129,2,True,True,True,West Ferdows Boulevard,5250000000.0,175000.0
+109,2,True,True,True,West Ferdows Boulevard,4830000000.0,161000.0
+58,1,True,True,True,Saadat Abad,3400000000.0,113333.33
+55,1,True,True,True,Saadat Abad,3850000000.0,128333.33
+150,2,False,True,True,Shahrake Qods,1200000000.0,40000.0
+60,2,True,True,True,,2650000000.0,88333.33
+130,3,True,True,False,ShahrAra,5000000000.0,166666.67
+88,2,True,True,True,Gisha,4750000000.0,158333.33
+51,1,True,True,True,Gisha,2980000000.0,99333.33
+113,3,True,True,False,Shahrake Gharb,7000000000.0,233333.33
+110,2,True,True,True,Ray,2035000000.0,67833.33
+60,1,True,True,True,Abbasabad,2460000000.0,82000.0
+98,2,True,True,True,Pardis,540000000.0,18000.0
+62,2,False,False,True,Ostad Moein,1450000000.0,48333.33
+150,3,True,True,True,Farmanieh,10000000000.0,333333.33
+75,2,False,False,False,Parand,635000000.0,21166.67
+61,1,True,True,False,Punak,2030000000.0,67666.67
+61,1,True,True,False,Punak,2030000000.0,67666.67
+72,2,True,True,True,Shahran,2350000000.0,78333.33
+100,2,True,True,True,Qasr-od-Dasht,3000000000.0,100000.0
+122,3,True,True,True,Aqdasieh,7200000000.0,240000.0
+215,3,True,True,True,Pakdasht,1750000000.0,58333.33
+101,2,True,True,True,Railway,3300000000.0,110000.0
+67,2,True,True,True,Punak,2800000000.0,93333.33
+72,2,True,True,False,Punak,2200000000.0,73333.33
+63,1,True,True,False,Punak,2200000000.0,73333.33
+75,2,True,True,False,Punak,2200000000.0,73333.33
+109,2,True,True,True,Shahran,3500000000.0,116666.67
+122,2,True,True,True,Aqdasieh,7000000000.0,233333.33
+70,1,True,True,True,Central Janatabad,3100000000.0,103333.33
+60,1,True,True,True,West Ferdows Boulevard,2450000000.0,81666.67
+53,1,True,True,False,East Ferdows Boulevard,1920000000.0,64000.0
+90,1,False,True,False,Pakdasht KhatunAbad,850000000.0,28333.33
+72,2,True,True,True,Amirieh,1650000000.0,55000.0
+74,2,True,True,True,Amirieh,1700000000.0,56666.67
+88,3,False,False,True,Parand,560000000.0,18666.67
+63,1,True,True,True,Punak,2150000000.0,71666.67
+114,3,True,True,True,Sattarkhan,5500000000.0,183333.33
+151,3,True,True,True,Saadat Abad,10200000000.0,340000.0
+42,1,True,False,True,Shahran,1760000000.0,58666.67
+74,2,True,True,True,Amirieh,1700000000.0,56666.67
+88,3,False,False,True,Parand,560000000.0,18666.67
+63,1,True,True,True,Punak,2150000000.0,71666.67
+114,3,True,True,True,Sattarkhan,5500000000.0,183333.33
+151,3,True,True,True,Saadat Abad,10200000000.0,340000.0
+42,1,True,False,True,Shahran,1760000000.0,58666.67
+300,3,True,True,False,Baghestan,1500000000.0,50000.0
+110,2,True,True,True,West Ferdows Boulevard,3730000000.0,124333.33
+100,2,False,False,False,Shahrake Qods,620000000.0,20666.67
+140,1,False,False,False,Shahryar,580000000.0,19333.33
+70,2,True,True,True,Northern Janatabad,3050000000.0,101666.67
+60,2,True,True,False,West Ferdows Boulevard,2000000000.0,66666.67
+76,2,True,True,True,North Program Organization,2600000000.0,86666.67
+148,3,True,True,True,Daryan No,5990000000.0,199666.67
+75,2,True,True,True,North Program Organization,2300000000.0,76666.67
+40,1,True,True,False,Pirouzi,1300000000.0,43333.33
+65,2,True,True,True,Southern Program Organization,2270000000.0,75666.67
+140,3,True,True,True,Rudhen,4000000000.0,133333.33
+110,2,True,True,True,West Pars,4000000000.0,133333.33
+70,2,True,False,True,Afsarieh,1650000000.0,55000.0
+128,3,True,True,True,Marzdaran,6700000000.0,223333.33
+94,2,True,True,True,Parand,580000000.0,19333.33
+67,1,True,True,True,Punak,2300000000.0,76666.67
+75,1,True,True,True,Shahrake Qods,650000000.0,21666.67
+130,2,True,True,True,Dorous,16900000000.0,563333.33
+40,0,False,False,False,Shahrake Qods,248000000.0,8266.67
+97,2,True,True,True,Pardis,510000000.0,17000.0
+110,2,True,True,True,Shahran,3850000000.0,128333.33
+150,3,True,True,True,Sadeghieh,6000000000.0,200000.0
+75,2,False,False,False,Chahardangeh,780000000.0,26000.0
+137,3,True,True,True,ShahrAra,7200000000.0,240000.0
+85,2,True,True,True,Parand,410000000.0,13666.67
+68,2,False,True,False,Pakdasht,430000000.0,14333.33
+78,2,False,True,False,Baqershahr,800000000.0,26666.67
+85,2,True,True,True,Parand,545000000.0,18166.67
+100,2,True,True,False,Parand,1280000000.0,42666.67
+71,2,True,True,True,Punak,2800000000.0,93333.33
+140,3,True,True,True,Gisha,11200000000.0,373333.33
+136,3,True,True,False,Parand,750000000.0,25000.0
+48,1,False,False,False,Jeyhoon,850000000.0,28333.33
+100,2,True,True,True,Lavizan,3300000000.0,110000.0
+82,2,True,False,True,Shams Abad,3280000000.0,109333.33
+120,3,True,True,True,Fatemi,4800000000.0,160000.0
+139,3,True,True,True,Gisha,7300000000.0,243333.33
+110,3,True,True,True,Keshavarz Boulevard,3950000000.0,131666.67
+78,2,False,False,True,Parand,370000000.0,12333.33
+79,2,False,False,False,Baghestan,750000000.0,25000.0
+66,2,True,True,True,Salsabil,1725000000.0,57500.0
+78,2,True,True,True,Kahrizak,780000000.0,26000.0
+85,2,True,True,True,Shahryar,1419000000.0,47300.0
+100,2,True,True,False,Qarchak,1200000000.0,40000.0
+80,2,True,True,True,Northren Jamalzadeh,3600000000.0,120000.0
+44,1,True,True,False,Salsabil,1050000000.0,35000.0
+120,2,True,True,False,Shahryar,1200000000.0,40000.0
+50,1,False,True,False,Shahrake Qods,340000000.0,11333.33
+121,3,True,True,False,Ostad Moein,3300000000.0,110000.0
+80,2,True,True,True,Azarbaijan,2800000000.0,93333.33
+70,2,False,True,True,Bahar,1200000000.0,40000.0
+160,1,False,False,False,Qarchak,3600000.0,120.0
+40,0,False,False,False,Pakdasht,165000000.0,5500.0
+88,2,True,True,True,Railway,2860000000.0,95333.33
+141,3,True,True,True,Persian Gulf Martyrs Lake,3810000000.0,127000.0
+140,3,True,True,True,Persian Gulf Martyrs Lake,1790000000.0,59666.67
+120,2,True,True,True,Persian Gulf Martyrs Lake,1530000000.0,51000.0
+66,2,False,True,False,Beryanak,1000000000.0,33333.33
+70,2,True,True,True,Punak,3500000000.0,116666.67
+75,2,True,False,True,Heshmatieh,3000000000.0,100000.0
+70,2,False,True,True,Elm-o-Sanat,1800000000.0,60000.0
+150,3,True,True,True,Saadat Abad,20000000000.0,666666.67
+95,2,True,True,True,Golestan,950000000.0,31666.67
+127,2,True,True,True,Southern Janatabad,6000000000.0,200000.0
+123,3,True,True,True,Shahr-e-Ziba,3700000000.0,123333.33
+63,2,True,True,True,Southern Janatabad,2000000000.0,66666.67
+90,2,True,True,True,Punak,3050000000.0,101666.67
+105,2,True,True,True,Pardis,605000000.0,20166.67
+180,3,True,True,True,Pasdaran,9900000000.0,330000.0
+120,3,True,False,True,Pirouzi,3700000000.0,123333.33
+65,2,True,True,True,Feiz Garden,2500000000.0,83333.33
+158,3,True,True,True,Farmanieh,10480000000.0,349333.33
+144,3,True,True,True,Chardivari,7632000000.0,254400.0
+144,3,True,True,True,Punak,7632000000.0,254400.0
+130,3,True,True,True,Gheitarieh,12300000000.0,410000.0
+245,3,True,True,True,Farmanieh,26950000000.0,898333.33
+190,3,True,True,True,Kamranieh,24300000000.0,810000.0
+63,2,True,True,True,Central Janatabad,3000000000.0,100000.0
+75,2,True,True,True,East Ferdows Boulevard,2100000000.0,70000.0
+88,2,True,False,True,Gholhak,4700000000.0,156666.67
+108,2,True,True,True,Pasdaran,9180000000.0,306000.0
+117,2,True,True,True,Islamshahr,1579500000.0,52650.0
+200,3,True,True,True,Pasdaran,12000000000.0,400000.0
+65,1,True,True,False,Pirouzi,1750000000.0,58333.33
+90,2,True,True,True,Central Janatabad,3780000000.0,126000.0
+125,2,True,True,True,Heravi,8100000000.0,270000.0
+140,3,True,True,True,Heravi,9100000000.0,303333.33
+71,2,False,True,True,Hashemi,1550000000.0,51666.67
+71,2,False,True,True,Jeyhoon,1640000000.0,54666.67
+236,4,True,True,True,Gheitarieh,20000000000.0,666666.67
+67,2,True,True,True,Central Janatabad,2750000000.0,91666.67
+60,1,True,True,True,Punak,1750000000.0,58333.33
+220,3,True,True,True,Heravi,15400000000.0,513333.33
+44,1,True,True,False,Andisheh,350000000.0,11666.67
+68,1,True,True,True,Heravi,4115000000.0,137166.67
+100,2,True,True,True,Pasdaran,8000000000.0,266666.67
+86,2,True,True,True,Pardis,580000000.0,19333.33
+84,2,True,True,True,Pardis,560000000.0,18666.67
+94,2,True,True,True,Heravi,4800000000.0,160000.0
+55,1,False,True,False,West Ferdows Boulevard,1550000000.0,51666.67
+113,2,True,True,True,Saadat Abad,7500000000.0,250000.0
+71,2,True,True,True,Islamshahr,630000000.0,21000.0
+70,2,True,True,False,Dehkade Olampic,2000000000.0,66666.67
+200,3,True,True,True,Golestan,2400000000.0,80000.0
+106,2,True,True,True,Golestan,1100000000.0,36666.67
+320,4,True,True,True,Saadat Abad,24000000000.0,800000.0
+114,2,True,True,True,West Pars,3820000000.0,127333.33
+100,2,True,True,True,Punak,6000000000.0,200000.0
+122,2,True,True,True,Saadat Abad,5800000000.0,193333.33
+200,2,True,True,False,Damavand,3500000000.0,116666.67
+154,3,True,True,True,Saadat Abad,12300000000.0,410000.0
+210,3,True,True,True,Pasdaran,15750000000.0,525000.0
+200,3,True,True,True,East Ferdows Boulevard,11000000000.0,366666.67
+65,1,True,True,True,Southern Janatabad,3000000000.0,100000.0
+124,3,True,True,True,Pirouzi,3968000000.0,132266.67
+83,2,True,True,True,Republic,1909000000.0,63633.33
+270,4,True,True,True,Farmanieh,37800000000.0,1260000.0
+104,2,True,True,True,East Ferdows Boulevard,5700000000.0,190000.0
+150,3,True,True,True,Zaferanieh,10490000000.0,349666.67
+103,3,True,True,True,West Ferdows Boulevard,3200000000.0,106666.67
+48,1,True,True,True,West Ferdows Boulevard,1920000000.0,64000.0
+165,3,True,True,True,Gheitarieh,12300000000.0,410000.0
+135,2,True,True,False,Gheitarieh,7400000000.0,246666.67
+86,2,True,True,True,Saadat Abad,6200000000.0,206666.67
+75,2,True,True,True,East Ferdows Boulevard,2350000000.0,78333.33
+58,1,True,True,True,East Ferdows Boulevard,1850000000.0,61666.67
+125,2,True,True,True,Shahrake Gharb,21500000000.0,716666.67
+82,2,True,True,True,Qazvin Imamzadeh Hassan,1886000000.0,62866.67
+58,2,True,True,True,Shahran,2200000000.0,73333.33
+101,2,True,True,True,Beryanak,2323000000.0,77433.33
+90,2,True,True,True,Niavaran,6800000000.0,226666.67
+180,3,True,True,True,Farmanieh,20700000000.0,690000.0
+132,3,True,True,True,Gheitarieh,6250000000.0,208333.33
+81,2,True,True,True,Valiasr,1863000000.0,62100.0
+153,3,True,True,True,Pasdaran,13000000000.0,433333.33
+166,3,True,True,True,Qalandari,12500000000.0,416666.67
+200,3,True,True,True,Pasdaran,17000000000.0,566666.67
+113,2,True,True,True,Pasdaran,8500000000.0,283333.33
+100,2,True,True,True,Valiasr,2300000000.0,76666.67
+80,2,True,True,True,Central Janatabad,3350000000.0,111666.67
+76,2,True,True,True,Jeyhoon,2000000000.0,66666.67
+128,3,True,True,True,Punak,5700000000.0,190000.0
+210,3,True,True,True,Shahrake Gharb,27000000000.0,900000.0
+140,2,True,True,True,Shahrake Gharb,12600000000.0,420000.0
+74,2,True,True,True,Amir Bahador,1702000000.0,56733.33
+75,1,True,True,True,Central Janatabad,3000000000.0,100000.0
+120,2,True,True,True,Pasdaran,7500000000.0,250000.0
+120,2,True,True,True,Pasdaran,7500000000.0,250000.0
+85,2,True,True,True,Ekhtiarieh,5000000000.0,166666.67
+105,2,True,True,True,Pardis,700000000.0,23333.33
+175,3,True,True,True,Farmanieh,15600000000.0,520000.0
+170,3,True,True,True,Farmanieh,15350000000.0,511666.67
+58,1,True,True,True,Ekbatan,2810000000.0,93666.67
+75,2,True,True,True,Parand,395000000.0,13166.67
+160,3,True,True,True,Gheitarieh,15100000000.0,503333.33
+62,1,True,True,True,Shahran,1850000000.0,61666.67
+93,2,True,True,True,Rudhen,1450000000.0,48333.33
+75,2,True,True,True,Islamshahr,715000000.0,23833.33
+86,2,True,True,False,Islamshahr,1200000000.0,40000.0
+120,2,True,True,True,Southern Program Organization,4260000000.0,142000.0
+95,2,True,True,True,Andisheh,1500000000.0,50000.0
+70,2,True,True,False,West Ferdows Boulevard,2120000000.0,70666.67
+75,2,True,True,False,East Ferdows Boulevard,2000000000.0,66666.67
+81,2,True,False,True,Pardis,590000000.0,19666.67
+65,1,True,True,False,West Ferdows Boulevard,1930000000.0,64333.33
+75,2,True,True,True,East Ferdows Boulevard,2730000000.0,91000.0
+106,2,True,True,False,East Ferdows Boulevard,3150000000.0,105000.0
+115,2,True,True,True,East Ferdows Boulevard,4600000000.0,153333.33
+100,2,True,True,True,Shahr-e-Ziba,3000000000.0,100000.0
+118,2,True,True,True,East Ferdows Boulevard,4500000000.0,150000.0
+116,2,True,True,True,East Ferdows Boulevard,5100000000.0,170000.0
+76,2,True,True,True,Shahr-e-Ziba,2200000000.0,73333.33
+74,2,True,True,False,East Ferdows Boulevard,2300000000.0,76666.67
+96,2,True,True,True,Saadat Abad,4500000000.0,150000.0
+87,2,True,True,True,Pardis,625000000.0,20833.33
+43,1,True,True,False,Northern Janatabad,1620000000.0,54000.0
+155,3,True,True,True,Niavaran,17050000000.0,568333.33
+53,1,True,True,True,East Ferdows Boulevard,1920000000.0,64000.0
+160,3,True,True,True,Farmanieh,17600000000.0,586666.67
+78,2,True,True,True,Shahr-e-Ziba,2250000000.0,75000.0
+230,3,True,True,True,Niavaran,25300000000.0,843333.33
+55,1,True,True,True,West Ferdows Boulevard,1850000000.0,61666.67
+120,2,True,True,False,Saadat Abad,11700000000.0,390000.0
+78,2,True,True,True,Southern Janatabad,3600000000.0,120000.0
+95,2,True,True,True,Southern Janatabad,4400000000.0,146666.67
+170,3,True,True,True,Gheitarieh,15400000000.0,513333.33
+175,3,True,True,True,Shahrake Gharb,22750000000.0,758333.33
+115,3,True,True,True,Punak,4500000000.0,150000.0
+113,2,True,True,True,Punak,4300000000.0,143333.33
+85,2,True,True,True,Punak,3380000000.0,112666.67
+140,3,True,True,True,Saadat Abad,10000000000.0,333333.33
+90,2,True,True,True,Saadat Abad,6500000000.0,216666.67
+63,1,True,False,False,Punak,2200000000.0,73333.33
+75,2,True,True,True,Central Janatabad,3220000000.0,107333.33
+130,3,True,True,True,Punak,6240000000.0,208000.0
+91,2,True,True,True,Punak,3350000000.0,111666.67
+121,3,True,True,True,Persian Gulf Martyrs Lake,3650000000.0,121666.67
+140,3,True,True,True,Saadat Abad,15500000000.0,516666.67
+126,2,True,True,True,East Ferdows Boulevard,5500000000.0,183333.33
+450,2,True,True,False,Absard,4200000000.0,140000.0
+500,2,True,True,False,Absard,3900000000.0,130000.0
+110,1,True,True,True,Pasdaran,6600000000.0,220000.0
+145,3,True,True,True,Haft Tir,4700000000.0,156666.67
+81,2,True,True,True,Shahrake Qods,810000000.0,27000.0
+64,2,True,True,True,Shahr-e-Ziba,2200000000.0,73333.33
